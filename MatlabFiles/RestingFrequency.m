@@ -13,3 +13,6 @@ for i = 1 : length(L)
 end
 
 fprintf('n');
+
+%Question 5 Code
+
